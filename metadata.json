@@ -1,0 +1,6 @@
+{
+  "name": "مهامي اليومية",
+  "description": "تطبيق متكامل وبسيط لإدارة وحفظ المهام اليومية بواجهة مستخدم أنيقة وجذابة تدعم الوضعين الداكن والفاتح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
